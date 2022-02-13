@@ -1,0 +1,99 @@
+﻿  compilation object save succeeded; see C:\Users\ken95\Desktop\归档\归档\Project1\x64\Debug\PS.cso
+  compilation object save succeeded; see C:\Users\ken95\Desktop\归档\归档\Project1\x64\Debug\VS.cso
+  Camera.cpp
+  d3dApp.cpp
+C:\Users\ken95\Desktop\归档\归档\Common\d3dApp.cpp(129,1): warning C4566: 由通用字符名称“\u5F52”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\d3dApp.cpp(129,1): warning C4566: 由通用字符名称“\u6863”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\d3dApp.cpp(138,1): warning C4566: 由通用字符名称“\u5F52”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\d3dApp.cpp(138,1): warning C4566: 由通用字符名称“\u6863”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\d3dApp.cpp(150,5): warning C4566: 由通用字符名称“\u5F52”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\d3dApp.cpp(150,5): warning C4566: 由通用字符名称“\u6863”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\d3dApp.cpp(162,1): warning C4566: 由通用字符名称“\u5F52”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\d3dApp.cpp(162,1): warning C4566: 由通用字符名称“\u6863”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\d3dApp.cpp(169,3): warning C4566: 由通用字符名称“\u5F52”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\d3dApp.cpp(169,3): warning C4566: 由通用字符名称“\u6863”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\d3dApp.cpp(204,1): warning C4566: 由通用字符名称“\u5F52”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\d3dApp.cpp(204,1): warning C4566: 由通用字符名称“\u6863”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\d3dApp.cpp(219,5): warning C4566: 由通用字符名称“\u5F52”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\d3dApp.cpp(219,5): warning C4566: 由通用字符名称“\u6863”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\d3dApp.cpp(421,2): warning C4566: 由通用字符名称“\u5F52”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\d3dApp.cpp(421,2): warning C4566: 由通用字符名称“\u6863”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\d3dApp.cpp(434,2): warning C4566: 由通用字符名称“\u5F52”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\d3dApp.cpp(434,2): warning C4566: 由通用字符名称“\u6863”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\d3dApp.cpp(457,3): warning C4566: 由通用字符名称“\u5F52”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\d3dApp.cpp(457,3): warning C4566: 由通用字符名称“\u6863”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\d3dApp.cpp(462,1): warning C4566: 由通用字符名称“\u5F52”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\d3dApp.cpp(462,1): warning C4566: 由通用字符名称“\u6863”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\d3dApp.cpp(466,1): warning C4566: 由通用字符名称“\u5F52”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\d3dApp.cpp(466,1): warning C4566: 由通用字符名称“\u6863”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\d3dApp.cpp(484,1): warning C4566: 由通用字符名称“\u5F52”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\d3dApp.cpp(484,1): warning C4566: 由通用字符名称“\u6863”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\d3dApp.cpp(507,2): warning C4566: 由通用字符名称“\u5F52”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\d3dApp.cpp(507,2): warning C4566: 由通用字符名称“\u6863”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\d3dApp.cpp(511,1): warning C4566: 由通用字符名称“\u5F52”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\d3dApp.cpp(511,1): warning C4566: 由通用字符名称“\u6863”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\d3dApp.cpp(518,1): warning C4566: 由通用字符名称“\u5F52”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\d3dApp.cpp(518,1): warning C4566: 由通用字符名称“\u6863”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\d3dApp.cpp(552,1): warning C4566: 由通用字符名称“\u5F52”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\d3dApp.cpp(552,1): warning C4566: 由通用字符名称“\u6863”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\d3dApp.cpp(563,5): warning C4566: 由通用字符名称“\u5F52”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\d3dApp.cpp(563,5): warning C4566: 由通用字符名称“\u6863”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\d3dApp.cpp(571,9): warning C4566: 由通用字符名称“\u5F52”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\d3dApp.cpp(571,9): warning C4566: 由通用字符名称“\u6863”表示的字符不能在当前代码页(1252)中表示出来
+  d3dUtil.cpp
+C:\Users\ken95\Desktop\归档\归档\Common\d3dUtil.cpp(30,5): warning C4566: 由通用字符名称“\u5F52”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\d3dUtil.cpp(30,5): warning C4566: 由通用字符名称“\u6863”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\d3dUtil.cpp(54,1): warning C4566: 由通用字符名称“\u5F52”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\d3dUtil.cpp(54,1): warning C4566: 由通用字符名称“\u6863”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\d3dUtil.cpp(64,1): warning C4566: 由通用字符名称“\u5F52”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\d3dUtil.cpp(64,1): warning C4566: 由通用字符名称“\u6863”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\d3dUtil.cpp(111,2): warning C4566: 由通用字符名称“\u5F52”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\d3dUtil.cpp(111,2): warning C4566: 由通用字符名称“\u6863”表示的字符不能在当前代码页(1252)中表示出来
+  DDSTextureLoader.cpp
+  GameTimer.cpp
+  GeometryGenerator.cpp
+  MathHelper.cpp
+  FrameResource.cpp
+C:\Users\ken95\Desktop\归档\归档\Common\UploadBuffer.h(30,1): warning C4566: 由通用字符名称“\u5F52”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\UploadBuffer.h(30,1): warning C4566: 由通用字符名称“\u6863”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\UploadBuffer.h(32,9): warning C4566: 由通用字符名称“\u5F52”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\UploadBuffer.h(32,9): warning C4566: 由通用字符名称“\u6863”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Project1\Project1\FrameResource.cpp(7,1): warning C4566: 由通用字符名称“\u5F52”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Project1\Project1\FrameResource.cpp(7,1): warning C4566: 由通用字符名称“\u6863”表示的字符不能在当前代码页(1252)中表示出来
+  CastleApp.cpp
+C:\Users\ken95\Desktop\归档\归档\Common\UploadBuffer.h(30,1): warning C4566: 由通用字符名称“\u5F52”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\UploadBuffer.h(30,1): warning C4566: 由通用字符名称“\u6863”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\UploadBuffer.h(32,9): warning C4566: 由通用字符名称“\u5F52”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Common\UploadBuffer.h(32,9): warning C4566: 由通用字符名称“\u6863”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Project1\Project1\CastleApp.cpp(185,2): warning C4566: 由通用字符名称“\u5F52”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Project1\Project1\CastleApp.cpp(185,2): warning C4566: 由通用字符名称“\u6863”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Project1\Project1\CastleApp.cpp(197,2): warning C4566: 由通用字符名称“\u5F52”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Project1\Project1\CastleApp.cpp(197,2): warning C4566: 由通用字符名称“\u6863”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Project1\Project1\CastleApp.cpp(230,3): warning C4566: 由通用字符名称“\u5F52”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Project1\Project1\CastleApp.cpp(230,3): warning C4566: 由通用字符名称“\u6863”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Project1\Project1\CastleApp.cpp(245,2): warning C4566: 由通用字符名称“\u5F52”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Project1\Project1\CastleApp.cpp(245,2): warning C4566: 由通用字符名称“\u6863”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Project1\Project1\CastleApp.cpp(251,3): warning C4566: 由通用字符名称“\u5F52”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Project1\Project1\CastleApp.cpp(251,3): warning C4566: 由通用字符名称“\u6863”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Project1\Project1\CastleApp.cpp(255,3): warning C4566: 由通用字符名称“\u5F52”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Project1\Project1\CastleApp.cpp(255,3): warning C4566: 由通用字符名称“\u6863”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Project1\Project1\CastleApp.cpp(299,2): warning C4566: 由通用字符名称“\u5F52”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Project1\Project1\CastleApp.cpp(299,2): warning C4566: 由通用字符名称“\u6863”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Project1\Project1\CastleApp.cpp(306,2): warning C4566: 由通用字符名称“\u5F52”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Project1\Project1\CastleApp.cpp(306,2): warning C4566: 由通用字符名称“\u6863”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Project1\Project1\CastleApp.cpp(454,1): warning C4566: 由通用字符名称“\u5F52”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Project1\Project1\CastleApp.cpp(454,1): warning C4566: 由通用字符名称“\u6863”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Project1\Project1\CastleApp.cpp(539,2): warning C4566: 由通用字符名称“\u5F52”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Project1\Project1\CastleApp.cpp(539,2): warning C4566: 由通用字符名称“\u6863”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Project1\Project1\CastleApp.cpp(545,1): warning C4566: 由通用字符名称“\u5F52”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Project1\Project1\CastleApp.cpp(545,1): warning C4566: 由通用字符名称“\u6863”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Project1\Project1\CastleApp.cpp(757,2): warning C4566: 由通用字符名称“\u5F52”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Project1\Project1\CastleApp.cpp(757,2): warning C4566: 由通用字符名称“\u6863”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Project1\Project1\CastleApp.cpp(760,2): warning C4566: 由通用字符名称“\u5F52”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Project1\Project1\CastleApp.cpp(760,2): warning C4566: 由通用字符名称“\u6863”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Project1\Project1\CastleApp.cpp(826,2): warning C4566: 由通用字符名称“\u5F52”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Project1\Project1\CastleApp.cpp(826,2): warning C4566: 由通用字符名称“\u6863”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Project1\Project1\CastleApp.cpp(832,2): warning C4566: 由通用字符名称“\u5F52”表示的字符不能在当前代码页(1252)中表示出来
+C:\Users\ken95\Desktop\归档\归档\Project1\Project1\CastleApp.cpp(832,2): warning C4566: 由通用字符名称“\u6863”表示的字符不能在当前代码页(1252)中表示出来
+  正在生成代码...
+  Project1.vcxproj -> C:\Users\ken95\Desktop\归档\归档\Project1\x64\Debug\Project1.exe
