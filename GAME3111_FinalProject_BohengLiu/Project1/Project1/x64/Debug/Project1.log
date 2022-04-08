@@ -1,0 +1,13 @@
+﻿  Camera.cpp
+  d3dApp.cpp
+  d3dUtil.cpp
+  DDSTextureLoader.cpp
+  GameTimer.cpp
+  GeometryGenerator.cpp
+  MathHelper.cpp
+  FrameResource.cpp
+  CastleApp.cpp
+C:\Users\ken95\Desktop\GAME3111_A1_BohengLiu\GAME3111_A1_BohengLiu\Project1\Project1\CastleApp.cpp(1114,23): warning C4305: “初始化”: 从“double”到“float”截断
+  Waves.cpp
+  正在生成代码...
+  Project1.vcxproj -> C:\Users\ken95\Desktop\GAME3111_A1_BohengLiu\GAME3111_A1_BohengLiu\Project1\x64\Debug\Project1.exe
